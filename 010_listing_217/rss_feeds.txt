@@ -1,0 +1,13 @@
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://www.cbn.com/cbnnews/world/feed/
+http://feeds.reuters.com/Reuters/worldNews
+https://www.dailytelegraph.com.au/help-rss
+http://www.weatherzone.com.au/services/rss.jsp
+https://thewest.com.au/rss-feeds
+http://feeds.bbci.co.uk/news/rss.xml
+http://www.cbn.com/cbnnews/us/feed/
+http://feeds.reuters.com/Reuters/domesticNews
+http://news.yahoo.com/rss/
+http://feeds.bbci.co.uk/news/technology/rss.xml
+http://feeds.bbci.co.uk/news/business/rss.xml
+http://blog.nodejs.org/feed/
